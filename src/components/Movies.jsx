@@ -10,7 +10,7 @@ const Movies = () => {
 
     return (
         <Container>
-            <h4>Recommended for You</h4>
+            <h4>Recommended For You</h4>
             <Content>
                 { movies &&
                     movies.map((movie, index)=>(
